@@ -127,5 +127,5 @@ public static function all() {
 
 ## Repositorio GitHub
 
-URL: [Completar después de subir]
+URL: (https://github.com/MalditoIvan2/Parcial2Lab2.git)
 
